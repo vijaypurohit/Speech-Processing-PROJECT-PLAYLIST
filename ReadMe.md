@@ -1,6 +1,10 @@
-/******************************************************************************************************************************************
-	Speech Processing CS 566: PROJECT (SPEECH BASED PLAYLIST)
-	Roll No: 214101058 MTech CSE'23 IITG
+>Speech Processing CS 566
+>
+>**PROJECT (SPEECH BASED PLAYLIST)**
+>
+>Roll No: 214101058 MTech CSE'23 IITG | Vijay Purohit
+
+----------------------------------------------------
 	Input: 
 		*	input_lamda/* 		= Contains: PRESENTLY USED "Lamda Model for Each Digit"
 			**	      		= Contains: Generated "Universe.csv" of Cepstral Coefficients of Training Files
@@ -34,34 +38,29 @@
 		*	showAlphaBetaPstarInConsole :	True: to show alpa, beta probabilities in the console for each observation sequence. (also saved in files in (output/) )
 		*	showStateSeqAlphaBetaInFileForEachObsAfterConverge :	True: It will save each utterance alpha, beta probabilites and state sequence in the file in (output/).
 
-*********************************************************************************************************************************************/
-FILES:
-	* 	main_hmm.cpp	= Main File Contains Menu for interactive session
-	* 	hmm_testing.h	= Contains HMM offline and live testing functions
-	* 	observation_sequence.h	= Contains Observation Sequence Generation Functions, calculating coefficients, marker etc for preprocesing of speech.
-	* 	hmm_solutions.h	= contains functions for solutions of problem one two and three for HMM.
-	* 	hmm_record.h	= contains functions for recording the utterances.
-	* 	hmm_playlist.h	= playlist menu and contains functions for showing playlist and playing songs.
-	* 	WndMainPlayList.h	= Microsoft Form for GUI of Playlist. Contains functions for GUI handling
+----------------------------------------------------
+##### FILES:
+   * main_hmm.cpp	= Main File Contains Menu for interactive session
+   * hmm_testing.h	= Contains HMM offline and live testing functions
+   * observation_sequence.h	= Contains Observation Sequence Generation Functions, calculating coefficients, marker etc for preprocesing of speech.
+   * hmm_solutions.h	= contains functions for solutions of problem one two and three for HMM.
+   * hmm_record.h	= contains functions for recording the utterances.
+   * hmm_playlist.h	= playlist menu and contains functions for showing playlist and playing songs.
+   * WndMainPlayList.h	= Microsoft Form for GUI of Playlist. Contains functions for GUI handling
 
-For Error: PlaySound() is not Identified:
-Do:
-	1 Right Click Project Name in Solution Explorer
-	2 Select Propertes --> Linker --> Input
-	3 Select Additional Dependencies --> Edit
-	4 Add name " winmm.lib "
--------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------
-Instructions to execute Code.
------------------------------
+##### For Error: PlaySound() is not Identified: Do:
+   * Right Click Project Name in Solution Explorer
+   * Select Propertes --> Linker --> Input
+   * Select Additional Dependencies --> Edit
+   * Add name " winmm.lib "
+----------------------------------------------------
+### Instructions to execute Code.
 1. Open it in Visual Studio 2010.
 2. Compile it and Run. GUI window will be shown along with console.
-	Interact With Menu
-		Output will be shown on the Console.
-		Detailed Output *.txt will be present in their respective folder.
+   * Interact With Menu
+      * Output will be shown on the Console.
+      * Detailed Output *.txt will be present in their respective folder.
 3. Take Care:
-	To generate The Respective Sequence (Training/Testing) before Converging or Testing.	
--------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------
+   * To generate The Respective Sequence (Training/Testing) before Converging or Testing.	
+----------------------------------------------------
 THE END.
------------------------------
