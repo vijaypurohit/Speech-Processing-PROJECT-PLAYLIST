@@ -1,0 +1,8 @@
+Zero
+One
+Two
+Three
+Four
+Hindi
+English
+Telugu
