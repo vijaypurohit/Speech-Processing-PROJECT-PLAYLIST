@@ -62,5 +62,6 @@
       * Detailed Output *.txt will be present in their respective folder.
 3. Take Care:
    * To generate The Respective Sequence (Training/Testing) before Converging or Testing.	
+4. Please Add 5 Songs of the playlist in the respective folder within SONGS.
 ----------------------------------------------------
 THE END.
