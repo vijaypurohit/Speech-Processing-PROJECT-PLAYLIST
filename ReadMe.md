@@ -68,6 +68,6 @@
 ### DOC FOLDER 
    * [REPORT](../origin/DOC/SP_CS566_Project_PLAYLIST_REPORT.pdf)
    * [FLOWCHART](../origin/DOC/flowchart.jpg)
-   * VIDEO LINK<a href="http://www.youtube.com/watch?feature=player_embedded&v=cLdlCeDYFj8" target="_blank"> <img src="http://img.youtube.com/vi/cLdlCeDYFj8/0.jpg"  alt="Playlist Demo" width="240" height="180" border="10"/></a>
+   * <a href="http://www.youtube.com/watch?feature=player_embedded&v=cLdlCeDYFj8" target="_blank"> <img src="http://img.youtube.com/vi/cLdlCeDYFj8/0.jpg"  alt="Playlist Demo" width="240" height="180" border="10"/>VIDEO LINK</a>
 ----------------------------------------------------
 THE END.
