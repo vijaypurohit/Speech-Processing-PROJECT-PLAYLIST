@@ -63,5 +63,11 @@
 3. Take Care:
    * To generate The Respective Sequence (Training/Testing) before Converging or Testing.	
 4. Please Add 5 Songs of the playlist in the respective folder within SONGS.
+
+----------------------------------------------------
+### DOC FOLDER 
+   * [REPORT](../origin/DOC/SP_CS566_Project_PLAYLIST_REPORT.pdf)
+   * [FLOWCHART](../origin/DOC/flowchart.jpg)
+   * VIDEO LINK<a href="http://www.youtube.com/watch?feature=player_embedded&v=cLdlCeDYFj8" target="_blank"> <img src="http://img.youtube.com/vi/cLdlCeDYFj8/0.jpg"  alt="Playlist Demo" width="240" height="180" border="10"/></a>
 ----------------------------------------------------
 THE END.
